@@ -1,0 +1,9 @@
+cache:
+  max-size: 1000
+  default-ttl: 300
+
+spring:
+  application:
+    name: cache-service
+  main:
+    allow-bean-definition-overriding: true
